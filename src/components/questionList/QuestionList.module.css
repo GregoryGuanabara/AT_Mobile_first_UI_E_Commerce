@@ -1,0 +1,12 @@
+.ul-question{
+  list-style-type: none;
+  padding:0;
+}
+
+.li-question{
+  border:2px solid;
+  border-color: #077187;
+  border-radius: 4px;
+  padding: 5px;
+  margin: 5px;
+}

@@ -1,0 +1,91 @@
+{
+    "id": "1",
+    "name": "IFone 16",
+    "price": "10.000",
+    "img": "https://th.bing.com/th/id/OIG.HlG._pBWGlUHPC5embBx?w=1024&h=1024&rs=1&pid=ImgDetMain",
+    "score": "4.9 / 5.0",
+    "description": "Apresentando o ifone16, o smartphone que tem mais câmeras do que um paparazzi e uma bateria que dura mais do que a paciência da sua mãe quando você esquece de fazer as tarefas de casa! Com uma tela tão grande que você vai precisar de um mapa para encontrar seus aplicativos. E não se preocupe com a memória, ela é suficiente para guardar todas as suas selfies mal sucedidas. O ifone16, o telefone que você não sabia que precisava até agora!",
+    "vendor": "Crispim Cell",
+    "vendor_score": "4.6 / 5.0",
+    "vendor_email": "crispin.cell@trambiques.com",
+    "vendor_tel": "(21) 93084-0171",
+    "comments": [
+        {
+            "id": 1,
+            "name": "João Silva",
+            "comment": "Adorei o novo ifone16! O design é incrível.",
+            "date": "2023-12-07T23:46:47Z",
+            "score": 4.5
+        },
+        {
+            "id": 2,
+            "name": "Maria Pereira",
+            "comment": "A funcionalidade de busca no ifone16 poderia ser melhorada.",
+            "date": "2023-12-08T23:46:47Z",
+            "score": 3.7
+        },
+        {
+            "id": 3,
+            "name": "Carlos Santos",
+            "comment": "Encontrei tudo que precisava no ifone16, ótimo trabalho!",
+            "date": "2023-12-09T23:46:47Z",
+            "score": 4.9
+        },
+        {
+            "id": 4,
+            "name": "Ana Costa",
+            "comment": "Gostaria de ver mais opções de cores para o ifone16.",
+            "date": "2023-12-10T23:46:47Z",
+            "score": 4.2
+        }
+    ],
+    "questions": [
+        {
+            "id": 1,
+            "date": "2023-12-07T23:46:47Z",
+            "question": "Qual é a cor do ifone16?",
+            "answer": "O ifone16 está disponível em várias cores, incluindo preto, branco e azul.",
+            "name": "João Silva"
+        },
+        {
+            "id": 2,
+            "date": "2023-12-08T23:46:47Z",
+            "question": "Quais são as características da câmera do ifone16?",
+            "answer": "O ifone16 possui uma câmera de alta resolução com capacidades de zoom óptico e modo noturno.",
+            "name": "Maria Pereira"
+        },
+        {
+            "id": 3,
+            "date": "2023-12-09T23:46:47Z",
+            "question": "Qual é a capacidade de armazenamento do ifone16?",
+            "answer": "O ifone16 está disponível em várias opções de armazenamento, incluindo 64GB, 128GB e 256GB.",
+            "name": "Carlos Santos"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "imgPath": "https://th.bing.com/th/id/OIG.1OWxlzYM62LNu5jy2q0p?w=270&h=270&c=6&r=0&o=5&dpr=1.1&pid=ImgGn",
+            "name": "Capa protetora para ifone16",
+            "price": 19.99
+        },
+        {
+            "id": 2,
+            "imgPath": "https://th.bing.com/th/id/OIG.jOy0s3RtRe7RnDihZ2Dy?w=270&h=270&c=6&r=0&o=5&dpr=1.1&pid=ImgGn",
+            "name": "Carregador sem fio para ifone16",
+            "price": 39.99
+        },
+        {
+            "id": 3,
+            "imgPath": "https://th.bing.com/th/id/OIG.fKIO19QKcJ.EznflRM1Y?w=270&h=270&c=6&r=0&o=5&dpr=1.1&pid=ImgGn",
+            "name": "Fone de ouvido compatível com ifone16",
+            "price": 29.99
+        },
+        {
+            "id": 4,
+            "imgPath": "https://th.bing.com/th/id/OIG.WkK3FhDNhRei2452BJrD?w=270&h=270&c=6&r=0&o=5&dpr=1.1&pid=ImgGn",
+            "name": "Película de vidro para ifone16",
+            "price": 9.99
+        }
+    ]
+}

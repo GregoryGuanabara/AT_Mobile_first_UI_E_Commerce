@@ -1,0 +1,21 @@
+.card-comentario{
+
+}
+
+.card-comentario-header{
+  margin:2px;
+}
+
+.card-comentario-info{
+  margin:2px;
+}
+
+.card-comentario-info h3{
+  margin:2px;
+}
+
+.card-comentario-info p{
+  margin:4px;
+  font-size: 12px;
+  opacity: 0.7;
+}
